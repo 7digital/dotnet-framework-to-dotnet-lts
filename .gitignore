@@ -1,0 +1,23 @@
+.idea/
+_ReSharper*
+*.user
+*.suo
+*.pidb
+*.userprefs
+*.log
+obj
+bin
+Bin
+logs
+*.cache
+.vs/
+.vscode/
+
+# Nuget
+.nuget/*
+!.nuget/NuGet.targets
+packages/*
+
+
+# git merge
+*.orig
